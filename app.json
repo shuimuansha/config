@@ -1,6 +1,6 @@
 {
-  "api": [
-    "https://a.2231901.com"
-  ],
-  "errorPage:"https://baidu.com"
+    "api":[
+        "https://a.2231901.com"
+    ],
+    "errorPage":"https://baidu.com"
 }
