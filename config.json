@@ -2,5 +2,6 @@
     "api":[
         "https://a.2231901.com"
     ],
-    "errorPage":"https://baidu.com"
+    "errorPage":"https://baidu.com",
+    "3desKey": "8f88d5af80ad11eb8a3900fff8633c98"
 }
